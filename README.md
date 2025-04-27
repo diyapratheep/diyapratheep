@@ -11,7 +11,6 @@
 
 - 👨‍💻 All of my projects are availablee at [here](https://github.com/diyapratheep?tab=repositories)
 
-- ⚡ Fun fact **I am highly demotivated and lazy most times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
