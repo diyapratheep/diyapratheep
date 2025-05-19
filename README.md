@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Science projects**
 
-- 🌱 I’m currently learning ** Data Science and Full stack**
+- 🌱 I’m currently learning ** Data Science, Backend and interested in SQL projects**
 
 - 👨‍💻 All of my projects are availablee at [here](https://github.com/diyapratheep?tab=repositories)
 
